@@ -12,7 +12,7 @@ Nestify is a Python-based desktop GUI application that allows users to effortles
 - Simple input dialogs for flexible folder/file setup
 
 ## 🖼️ GUI Preview
-> *(Add a screenshot here if you'd like)*
+![Nestify Screenshot](Screenshot 2025-04-06 112437.png)
 
 ## 📦 Requirements
 
